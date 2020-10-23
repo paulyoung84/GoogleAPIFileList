@@ -16,7 +16,7 @@
 
   https://developers.google.com/drive/v3/web/quickstart/python
 
-  A client_secret.json file needs to placed in the same directory
+  A credentials.json file needs to placed in the same directory
 
   with this script. The link above contains the instruction on
 
